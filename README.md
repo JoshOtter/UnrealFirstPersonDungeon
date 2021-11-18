@@ -15,6 +15,7 @@ Below is a sumary of each story I resolved with screenshots and gifs showing the
 - [Story 4: Traps](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#story-4-traps)
 - [Story 5: Finalize Props](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#story-5-finalize-props)
 ## Story 1: Plan, Design, and Block In
+For this story, I decided how many rooms I wanted to include in my level and decided how to lay them out. I also made a plan for the main puzzles and traps I wanted focus the design of the level around. I then drew a top down sketch of the level and used that as a basis for building it with brushes. I also added a player start object at the beginning of the level so I could test the initial design. Unfortunately, I forgot to take a screenshot at this stage.
 ## Story 2: Replace Brushes with Meshes
 ## Story 3: Puzzles
 ## Story 4: Traps
