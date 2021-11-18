@@ -8,3 +8,10 @@ I also gained additional experience using GitHub desktop for version control. Af
 
 Below is a sumary of each story I resolved with screenshots and gifs showing the level features and the blueprints that run their functionality. You can find the screenshots and gifs in the folders of this repository.
 
+## Table of Contents
+
+## Story 1: Plan, Design, and Block In
+## Story 2: Replace Brushes with Meshes
+## Story 3: Puzzles
+## Story 4: Traps
+## Story 5: Finalize Props
