@@ -102,5 +102,8 @@ After the player clicks the fourth button, the final candle will be lit, and the
 - [Trap Floor](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#trap-floor)
 - [Falling Cage](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#falling-cage)
 ### Trap Floor
+The first trap the player will encounter comes when he is looking for the second button among the six in the experiment room. For this trap I made a new mesh actor and built a new blueprint and made two sequences in which the trap floor opens and closes.
+
+
 ### Falling Cage
 ## Story 5: Finalize Props
