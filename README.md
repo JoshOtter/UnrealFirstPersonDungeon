@@ -78,8 +78,26 @@ Before the player can press the third button located in the prison, they must fi
 ![OpeningCellDoor](https://user-images.githubusercontent.com/87107050/142492948-89abcddf-fdd3-48b7-87bb-dbd0497e54d8.gif)
 
 #### Move the Pot to Reach a Button
+The next part of the puzzle comes when the player realized the third button is on the ceiling in one of the cells and that it cannot be reached from the ground or even by jumping. They have to find another solution, which is to push one of the pots from the other side of the cell under the button, so they can jump onto the pot and then jump up from there to click the button on the ceiling.
+
+![JumpingButton](https://user-images.githubusercontent.com/87107050/142494519-f3508f59-4c02-4269-ab52-54f2d3d47f1b.gif)
+
+At this point the third candle will be lit.
+
+![ThirdCandleLit](https://user-images.githubusercontent.com/87107050/142495078-6dca3a5f-080d-4b9d-93f2-69554806e413.gif)
+
 #### Move the False Wall
+The final puzzle to get to the fourth button in the Sanctuary requires the player to light the two candles on the altar by clicking on both of them. When this is done, the false wall hiding the button will be removed.
+
+![AltarCandles](https://user-images.githubusercontent.com/87107050/142495582-8c35dbd4-2c7f-4a89-9270-5d482007062e.PNG)
+![AltarCandles](https://user-images.githubusercontent.com/87107050/142496067-41dbf5eb-0b48-4b0c-82da-581c4f6d618e.gif)
+
+After the player clicks the fourth button, the final candle will be lit, and the player may open the door leading to the end of the level.
+
+
+
 ## Story 4: Traps
+
 - [Trap Floor](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#trap-floor)
 - [Falling Cage](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#falling-cage)
 ### Trap Floor
