@@ -46,9 +46,12 @@ The Cultic Sanctuary
   - [Move the False Wall](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#move-the-false-wall)
 ### Main Button Puzzle
 The main puzzle consists of a series of buttons the player must press in the correct order in order to light the candles on the table in the main hall and unlock the door that leads out of the level. Within this puzzle, there are four smaller puzzles the player must solve as they find the buttons in the adjacent rooms. Each of the four buttons has a blueprint that references the end door actor to connect to it's booleans that tell it whether or not the candles have been lit. Here is the blueprint for the first candle. The other three are very similar, have slightly different logic when checking which candles are lit or unlit.
+
 ![Button1Part1](https://user-images.githubusercontent.com/87107050/142486184-aeb11dd9-b082-4617-b12e-73fec14bc906.PNG)
 ![Button1Part2](https://user-images.githubusercontent.com/87107050/142486194-84d9eeb2-ed27-4c84-a37f-0160532f84fb.PNG)
+
 Here you can see an additional event I added that destroys any active flame emitters on the candles. The blueprints call this function any time the player clicks the buttons out of order or if they press one of the buttons more than once.
+
 ![BlowOutCandles](https://user-images.githubusercontent.com/87107050/142486636-a8ea5078-e427-47d2-97cf-6b459b79060e.PNG)
 
 You may also have noticed that the first button activates an array of pit fire emitters that turns on the furnace.
@@ -59,8 +62,11 @@ This button also activates the first candle to be lit.
 
 ![FirstCandleLit](https://user-images.githubusercontent.com/87107050/142488102-97112023-d062-44ef-abd1-1fa489217b44.gif)
 #### Find the Right Button
+After pressing the first button, the player must find their way to the next button in the experiment room, where they are faced with six button options. Only one of them will light the candle, while the rest will activate the trap floor.
 #### Get the Key to Unlock the Prison
 #### Move the Pot to Reach a Button
 #### Move the False Wall
 ## Story 4: Traps
+### Trap Floor
+### Falling Cage
 ## Story 5: Finalize Props
