@@ -10,6 +10,10 @@ Below is a sumary of each story I resolved with screenshots and gifs showing the
 
 ## Table of Contents
 - [Story 1: Plan, Design, and Block In](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#story-1-plan-design-and-block-in)
+- [Story 2: Replace Brushes with Meshes](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#story-2-replace-brushes-with-meshes)
+- [Story 3: Puzzles](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#story-3-puzzles)
+- [Story 4: Traps](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#story-4-traps)
+- [Story 5: Finalize Props](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#story-5-finalize-props)
 ## Story 1: Plan, Design, and Block In
 ## Story 2: Replace Brushes with Meshes
 ## Story 3: Puzzles
