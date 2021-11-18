@@ -104,6 +104,24 @@ After the player clicks the fourth button, the final candle will be lit, and the
 ### Trap Floor
 The first trap the player will encounter comes when he is looking for the second button among the six in the experiment room. For this trap I made a new mesh actor and built a new blueprint and made two sequences in which the trap floor opens and closes.
 
+![TrapFloorButton](https://user-images.githubusercontent.com/87107050/142498688-7f9f9e6a-9948-4bcf-a153-a787a02c2fdc.PNG)
+
+Here is the blueprint for the trap floor buttons:
+
+![OpenTrapFloorFunction](https://user-images.githubusercontent.com/87107050/142498729-b07c779b-71a5-42f6-89a0-69f4f48e9206.PNG)
+
+When the player clicks on one of these buttons while standing on the trap floor, they will fall into the furnace room and have to go back and try again. 
+
+![PressingTrapButton](https://user-images.githubusercontent.com/87107050/142499407-42d00e16-0cbb-407d-92af-7b5ff05b68ad.gif)
 
 ### Falling Cage
+The final and most annoying trap is a cage hidden in the shadows in the ceiling that will fall on the player if they try to open the exit door before all the candles are lit. For this trap made a new mesh out of several other components, added custom colliders to it, a collision box, a blueprint, and a movement sequence.
+
+![ExitDoorBlueprint](https://user-images.githubusercontent.com/87107050/142500181-8f7dcffd-8d81-4ae0-b780-630680e8fc6d.PNG)
+![DropCageFunction](https://user-images.githubusercontent.com/87107050/142500197-98fe9c74-16ca-42c1-a0cb-88902580d0cb.PNG)
+![CapturedByCultists](https://user-images.githubusercontent.com/87107050/142500605-d7e7cbb9-7ba5-48de-83bf-06c9ea0dd2a8.gif)
+
+The collider in the cage opens a new menu map after a 3 second delay that forces the player to either restart or quit the level.
+
 ## Story 5: Finalize Props
+
