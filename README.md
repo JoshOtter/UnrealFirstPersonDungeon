@@ -62,11 +62,13 @@ This button also activates the first candle to be lit.
 
 ![FirstCandleLit](https://user-images.githubusercontent.com/87107050/142488102-97112023-d062-44ef-abd1-1fa489217b44.gif)
 #### Find the Right Button
-After pressing the first button, the player must find their way to the next button in the experiment room, where they are faced with six button options. Only one of them will light the candle, while the rest will activate the trap floor.
+After pressing the first button, the player must find their way to the next button in the experiment room, where they are faced with six button options. Only one of them will light the candle, while the rest will activate the [trap floor](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#trap-floor).
 #### Get the Key to Unlock the Prison
 #### Move the Pot to Reach a Button
 #### Move the False Wall
 ## Story 4: Traps
+- [Trap Floor](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#trap-floor)
+- [Falling Cage](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#falling-cage)
 ### Trap Floor
 ### Falling Cage
 ## Story 5: Finalize Props
