@@ -20,18 +20,24 @@ For this story, I decided how many rooms I wanted to include in my level and dec
 I went through the level and replaced the brushes with meshes. There were some brushes that I initially applied textures to, but I later learned from my project manager the importance of using meshes instead. I adjusted some of the level construction to work better with the meshes and added some of the large architectual objects, like pillars, doors, trim and other larger objects.
 
 Below are screenshots of each room:
-![Entry](https://user-images.githubusercontent.com/87107050/142470852-6681ff8e-fc58-4d80-a41d-30bc96dda7c8.PNG)
+
 The Entry
-![MainStairs](https://user-images.githubusercontent.com/87107050/142471058-82994b96-ade5-40e7-b5ae-cd5ccd1e8a52.PNG)
+![Entry](https://user-images.githubusercontent.com/87107050/142470852-6681ff8e-fc58-4d80-a41d-30bc96dda7c8.PNG)
+
 The Main Hall
-![Prison](https://user-images.githubusercontent.com/87107050/142471122-a06be4e3-619d-4da0-999b-2219f9d935eb.PNG)
+![MainStairs](https://user-images.githubusercontent.com/87107050/142471058-82994b96-ade5-40e7-b5ae-cd5ccd1e8a52.PNG)
+
 The Prison
-![ExperimentRoom](https://user-images.githubusercontent.com/87107050/142471157-a5b35fcb-04f7-49d2-a25a-f9df2cfae2f9.PNG)
+![Prison](https://user-images.githubusercontent.com/87107050/142471122-a06be4e3-619d-4da0-999b-2219f9d935eb.PNG)
+
 The Experiment Room
-![Furnace](https://user-images.githubusercontent.com/87107050/142471195-a3d13f48-e93e-4283-bc06-00ab5be43b32.PNG)
+![ExperimentRoom](https://user-images.githubusercontent.com/87107050/142471157-a5b35fcb-04f7-49d2-a25a-f9df2cfae2f9.PNG)
+
 The Furnace Room
-![Sanctuary](https://user-images.githubusercontent.com/87107050/142471245-c298e041-8dd7-4798-80a8-59763b7a2292.PNG)
+![Furnace](https://user-images.githubusercontent.com/87107050/142471195-a3d13f48-e93e-4283-bc06-00ab5be43b32.PNG)
+
 The Cultic Sanctuary
+![Sanctuary](https://user-images.githubusercontent.com/87107050/142471245-c298e041-8dd7-4798-80a8-59763b7a2292.PNG)
 ## Story 3: Puzzles
 ## Story 4: Traps
 ## Story 5: Finalize Props
