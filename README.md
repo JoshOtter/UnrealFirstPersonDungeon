@@ -50,10 +50,13 @@ The main puzzle consists of a series of buttons the player must press in the cor
 ![Button1Part2](https://user-images.githubusercontent.com/87107050/142486194-84d9eeb2-ed27-4c84-a37f-0160532f84fb.PNG)
 Here you can see an additional event I added that destroys any active flame emitters on the candles. The blueprints call this function any time the player clicks the buttons out of order or if they press one of the buttons more than once.
 ![BlowOutCandles](https://user-images.githubusercontent.com/87107050/142486636-a8ea5078-e427-47d2-97cf-6b459b79060e.PNG)
+
 You may also have noticed that the first button activates an array of pit fire emitters that turns on the furnace.
+
 ![ActivatingFurnace](https://user-images.githubusercontent.com/87107050/142487383-0ac62da4-ce7c-4acb-bc65-a9707370fb71.gif)
 
 This button also activates the first candle to be lit.
+
 ![FirstCandleLit](https://user-images.githubusercontent.com/87107050/142488102-97112023-d062-44ef-abd1-1fa489217b44.gif)
 #### Find the Right Button
 #### Get the Key to Unlock the Prison
