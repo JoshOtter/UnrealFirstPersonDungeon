@@ -39,6 +39,11 @@ The Furnace Room
 The Cultic Sanctuary
 ![Sanctuary](https://user-images.githubusercontent.com/87107050/142471245-c298e041-8dd7-4798-80a8-59763b7a2292.PNG)
 ## Story 3: Puzzles
+- [Main Button Puzzle](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#main-button-puzzle)
+  - [Find the Right Button](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#find-the-right-button)
+  - [Get the Key to Unlock the Prison](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#get-the-key-to-unlock-the-prison)
+  - [Move the Pot to Reach a Button](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#move-the-pot-to-reach-a-button)
+  - [Move the False Wall](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#move-the-false-wall)
 ### Main Button Puzzle
 #### Find the Right Button
 #### Get the Key to Unlock the Prison
