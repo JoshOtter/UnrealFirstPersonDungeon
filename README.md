@@ -94,7 +94,8 @@ The final puzzle to get to the fourth button in the Sanctuary requires the playe
 
 After the player clicks the fourth button, the final candle will be lit, and the player may open the door leading to the end of the level.
 
-
+![FourthCandleLit](https://user-images.githubusercontent.com/87107050/142496891-f45e84ee-506a-4118-ae23-13e62c94d834.gif)
+![ExitDoor](https://user-images.githubusercontent.com/87107050/142497517-9ed6fec3-b22f-43d9-9737-682be23ef189.gif)
 
 ## Story 4: Traps
 
