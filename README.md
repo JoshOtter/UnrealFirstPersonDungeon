@@ -75,7 +75,7 @@ Before the player can press the third button located in the prison, they must fi
 
 ![KeyBlueprint](https://user-images.githubusercontent.com/87107050/142492389-49d378ff-ef6e-4817-b507-1b9dcf200590.PNG)
 ![PickingUpKey](https://user-images.githubusercontent.com/87107050/142492245-a68295e7-088c-4e32-b504-72c9e7ce0b92.gif)
-
+![OpeningCellDoor](https://user-images.githubusercontent.com/87107050/142492948-89abcddf-fdd3-48b7-87bb-dbd0497e54d8.gif)
 
 #### Move the Pot to Reach a Button
 #### Move the False Wall
