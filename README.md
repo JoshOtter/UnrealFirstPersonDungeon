@@ -63,7 +63,20 @@ This button also activates the first candle to be lit.
 ![FirstCandleLit](https://user-images.githubusercontent.com/87107050/142488102-97112023-d062-44ef-abd1-1fa489217b44.gif)
 #### Find the Right Button
 After pressing the first button, the player must find their way to the next button in the experiment room, where they are faced with six button options. Only one of them will light the candle, while the rest will activate the [trap floor](https://github.com/JoshOtter/UnrealFirstPersonDungeon/blob/main/README.md#trap-floor).
+
+![PressingButtonTwo](https://user-images.githubusercontent.com/87107050/142489457-5232f65c-9428-4649-aa35-8e739481f3ef.gif)
+
+This will activate the second candle.
+
+![SecondCandleLit](https://user-images.githubusercontent.com/87107050/142489886-6f768a2f-18d5-47f6-b632-f9a89aafa0c1.gif)
+
 #### Get the Key to Unlock the Prison
+Before the player can press the third button located in the prison, they must first find the key that unlocks the cell doors. When the player clicks on the key, it changes a boolean variable in the cell door blueprints and then destroys itsself to make it feel like the player has picked it up.
+
+![KeyBlueprint](https://user-images.githubusercontent.com/87107050/142492389-49d378ff-ef6e-4817-b507-1b9dcf200590.PNG)
+![PickingUpKey](https://user-images.githubusercontent.com/87107050/142492245-a68295e7-088c-4e32-b504-72c9e7ce0b92.gif)
+
+
 #### Move the Pot to Reach a Button
 #### Move the False Wall
 ## Story 4: Traps
