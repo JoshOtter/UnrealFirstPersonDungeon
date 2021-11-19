@@ -124,4 +124,9 @@ The final and most annoying trap is a cage hidden in the shadows in the ceiling 
 The collider in the cage opens a new menu map after a 3 second delay that forces the player to either restart or quit the level.
 
 ## Story 5: Finalize Props
+This story was about filling in the space with props, so I added some of the thematic props for each room, including wood and piles of skeletons for the furnace room, skeletons on the tables in the experiment room, various chains and other prison related items, and some decorative pots and a statue in the sanctuary. I also included some props by each candle on the table in the hall to give a clue as to which room connected to each candle.
 
+## Skills Acquired
+1. I gained experience using Unreal to build levels and objects and manipulate them with blueprints.
+2. I gained experience in a collaborative work environment using Agile/Scrum and Azure DevOps services.
+3. I utilized GitHub desktop to pull from a remote repository, create branches, make commits, merge with updates to the file, push any changes, and making pull requests for each story.
